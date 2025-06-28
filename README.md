@@ -8,7 +8,7 @@ https://leetcodejavascript.com
 
 | # | Title | Difficulty |
 |---|-------|------------|
-| 1 | [Two Sum](./solutions/0001-two-sum.js) |  Unknown |
+| 1 | [Two Sum](./solutions/0001-two-sum.js) |  Easy |
 
 ## Languages
 - JavaScript (100%)
