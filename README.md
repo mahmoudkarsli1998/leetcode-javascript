@@ -1,19 +1,26 @@
-# LeetCode solutions in JavaScript
+# 1+ LeetCode solutions in JavaScript
 
-*Start with 0 solutions - you'll update this count as you add more!*
+*Updated: 6/28/2025*
 
 https://leetcodejavascript.com
 
 ## Table of Contents:
 
-*This table will grow as you add solutions. Start with an empty table and add rows as you solve problems.*
-
 | # | Title | Difficulty |
 |---|-------|------------|
-| | *Your solutions will appear here* | |
+| 1 | [Two Sum](./solutions/0001-two-sum.js) |  Unknown |
 
 ## Languages
 - JavaScript (100%)
+
+## Progress
+- **Total Problems Solved**: 1 (and counting!)
+- **Easy**: 0
+- **Medium**: 0  
+- **Hard**: 0
+
+## Topics Covered
+Topics will be automatically detected and listed here as you add more solutions.
 
 ## Getting Started
 This repository contains my personal journey solving LeetCode problems. Each solution includes:
@@ -22,86 +29,26 @@ This repository contains my personal journey solving LeetCode problems. Each sol
 - Time and space complexity analysis
 - Test cases
 
-## Progress
-- **Total Problems Solved**: 0 (and counting!)
-- **Easy**: 0
-- **Medium**: 0  
-- **Hard**: 0
-
-## Topics
-- Array
-- String
-- Hash Table
-- Dynamic Programming
-- Math
-- Two Pointers
-- Greedy
-- Sorting
-- Depth-First Search
-- Binary Search
-- Database
-- Breadth-First Search
-- Tree
-- Matrix
-- Bit Manipulation
-- Stack
-- Heap (Priority Queue)
-- Graph
-- Simulation
-- Design
-- Counting
-- Backtracking
-- Sliding Window
-- Union Find
-- Linked List
-- Ordered Set
-- Monotonic Stack
-- Enumeration
-- Recursion
-- Trie
-- Divide and Conquer
-- Binary Search Tree
-- Bitmask
-- Queue
-- Memoization
-- Segment Tree
-- Geometry
-- Binary Indexed Tree
-- Hash Function
-- Topological Sort
-- String Matching
-- Rolling Hash
-- Shortest Path
-- Game Theory
-- Interactive
-- Data Stream
-- Brainteaser
-- Combinatorics
-- Randomized
-- Iterator
-- Concurrency
-- Doubly-Linked List
-- Probability and Statistics
-- Quickselect
-- Bucket Sort
-- Suffix Array
-- Minimum Spanning Tree
-- Counting Sort
-- Shell
-- Line Sweep
-- Reservoir Sampling
-- Strongly Connected Component
-- Eulerian Circuit
-- Radix Sort
-- Rejection Sampling
-- Bipartite Matching
+## How to Use
+1. Browse the solutions in the table above
+2. Click on any problem title to view the solution
+3. Each file contains the problem description, solution, and test cases
+4. Run any solution with: `node solutions/XXXX-problem-name.js`
 
 ## Contributing
-Feel free to contribute by:
-1. Adding new solutions
-2. Optimizing existing solutions
-3. Adding TypeScript versions
-4. Improving documentation
+Feel free to:
+- Suggest optimizations for existing solutions
+- Add alternative approaches
+- Report any issues or bugs
+- Improve documentation
+
+## Auto-Update
+This README is automatically updated using `update-readme.js`. 
+Run `node update-readme.js` after adding new solutions.
 
 ## License
 MIT License
+
+---
+*Last updated: 2025-06-28*
+*Solutions: 1 | Easy: 0 | Medium: 0 | Hard: 0*
